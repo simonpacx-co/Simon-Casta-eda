@@ -1,153 +1,93 @@
 
-*Aprendizaje continuo, pensamiento lógico e innovación tecnológica.*
+<div align="center"> <img src="./assets/banner.svg" alt="Simon Castañeda - Banner synthwave" width="100%" /> <br/>
 
-<!-- BANNER PRINCIPAL -->
-<div align="center"> <img src="assets/banner_linux_animado.gif" alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE" width="100%"> </div>
-<h1 align="center">🐧 Linux & Open Source</h1>
-<h3 align="center"> Explorando sistemas operativos, desarrollo de software y tecnologías libres </h3>
-<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"> <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE"> </p>
+<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0620" alt="LinkedIn" /></a> <a href="https://youtube.com/@TU-CANAL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0620" alt="YouTube" /></a> <a href="https://gitlab.com/TU-USUARIO"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d0620" alt="GitLab" /></a> <a href="mailto:simonpacx@gmail.com"><img src="https://img.shields.io/badge/Email-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0620" alt="Email" /></a> <a href="https://TU-ENLACE-AL-CURRICULUM"><img src="https://img.shields.io/badge/Mi_Curr%C3%ADculum-05D9E8?style=for-the-badge&logo=readme&logoColor=0d0620&labelColor=0d0620" alt="Mi currículum" /></a>
 
-💻 Tecnologías y áreas de interés
-Tecnología
-Aplicaciones
-🐧 Linux
-Sistemas operativos y administración
-🟠 Ubuntu
-Desarrollo y entornos de trabajo
-🍓 Raspberry Pi
-Hardware, IoT y proyectos educativos
-🔴 Debian
-Estabilidad y servidores
-🦎 openSUSE
-Administración y desarrollo de sistemas
-
-🚀 Aprendizaje continuo
-Interés en software libre, terminal Linux, automatización, redes, seguridad informática, administración de sistemas y desarrollo de software.
-<p align="center"> <em>Un mundo de posibilidades, en tus manos.</em> </p>
-
-
-
-
-## **🛠️ Stack Tecnológico y Herramientas**
-<!-- BANNER PRINCIPAL -->
-
-<div align="center">
-  <img src="assets/banner.png"
-       alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE"
-       width="100%">
 </div>
-
-<h1 align="center">🐧 Linux & Open Source</h1>
-
-<h3 align="center">
-  Explorando sistemas operativos, desarrollo de software y tecnologías libres
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
-</p>
-
-
-# 👋 ¡Hola! Soy Simon Castañeda
-
-### 💻 Desarrollo de Software | Programación | Innovación Educativa
+> whoami
+👋 ¡Hola! Soy Simon Castañeda
+💻 Desarrollo de Software | Programación | Innovación Educativa
 
 Me interesa el desarrollo de software, la programación y la formación de talento humano en el área tecnológica. He trabajado en ejercicios y proyectos formativos relacionados con Python, JavaScript, Node.js y PostgreSQL. También me interesan la arquitectura de software, las buenas prácticas de programación y la creación de contenidos educativos para facilitar el aprendizaje tecnológico.
 
-- 🔭 **Áreas de interés:** desarrollo de software, bases de datos y formación tecnológica.
-- 🌱 **Actualmente:** fortaleciendo conocimientos mediante proyectos y ejercicios prácticos.
-- 🎯 **Objetivo:** contribuir al desarrollo de soluciones tecnológicas y a la formación de nuevas competencias digitales.
-- 📫 **Contacto:** simonpacx@gmail.com
+text
+┌──────────────────────────────────────────────────────────────┐
+│ 🔭 ÁREAS DE INTERÉS  desarrollo de software, bases de datos  │
+│                      y formación tecnológica                 │
+│ 🌱 ACTUALMENTE       fortaleciendo conocimientos mediante    │
+│                      proyectos y ejercicios prácticos        │
+│ 🎯 OBJETIVO          contribuir al desarrollo de soluciones  │
+│                      tecnológicas y a la formación de nuevas │
+│                      competencias digitales                  │
+│ 📫 CONTACTO          simonpacx@gmail.com                     │
+└──────────────────────────────────────────────────────────────┘
+> cat stack.txt 🛠️ Tecnologías trabajadas
+💻 Lenguajes y programación
 
----
+Mostrar imagen Mostrar imagen Mostrar imagen
 
-## 🛠️ Tecnologías trabajadas
+🌐 Desarrollo de aplicaciones
 
-### 💻 Lenguajes y programación
+Mostrar imagen Mostrar imagen
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+🗄️ Bases de datos
 
-### 🌐 Desarrollo de aplicaciones
+Mostrar imagen Mostrar imagen
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+📦 Bibliotecas y herramientas utilizadas en ejercicios
 
-### 🗄️ Bases de datos
+Mostrar imagen Mostrar imagen
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-326690?style=for-the-badge&logo=postgresql&logoColor=white)
+> ls skills/ 📚 Conocimientos y áreas de trabajo
+▸ Programación orientada a objetos (POO).
+▸ Funciones, clases, atributos y métodos en Python.
+▸ Aplicaciones de consola con JavaScript y Node.js.
+▸ Lectura y escritura de archivos JSON.
+▸ Generación de reportes PDF.
+▸ Diseño y normalización de bases de datos relacionales.
+▸ Consultas SQL, JOIN, subconsultas y funciones agregadas.
+▸ Funciones, procedimientos almacenados, transacciones y auditoría de datos.
+▸ Interés en arquitectura de software y metodologías ágiles.
+▸ Creación de recursos educativos para el aprendizaje de programación.
 
-### 📦 Bibliotecas y herramientas utilizadas en ejercicios
+Habilidades transversales: pensamiento lógico · aprendizaje continuo · innovación tecnológica · formación y transferencia de conocimiento.
 
-![PDFKit](https://img.shields.io/badge/PDFKit-CC0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📚 Conocimientos y áreas de trabajo
-
-- Programación orientada a objetos (POO).
-- Funciones, clases, atributos y métodos en Python.
-- Aplicaciones de consola con JavaScript y Node.js.
-- Lectura y escritura de archivos JSON.
-- Generación de reportes PDF.
-- Diseño y normalización de bases de datos relacionales.
-- Consultas SQL, JOIN, subconsultas y funciones agregadas.
-- Funciones, procedimientos almacenados, transacciones y auditoría de datos.
-- Interés en arquitectura de software y metodologías ágiles.
-- Creación de recursos educativos para el aprendizaje de programación.
-
----
-
-## 🚀 Proyectos formativos
-
-### 🏥 Base de datos Hospital General
+> run projects.exe 🚀 Proyectos formativos
+🏥 Base de datos Hospital General
 
 Ejercicios de modelado y consultas SQL para gestionar pacientes, médicos, citas, diagnósticos y costos. Incluye relaciones entre tablas, restricciones, funciones y procedimientos almacenados.
 
-**Tecnologías:** PostgreSQL, SQL y pgAdmin.
+Tecnologías: PostgreSQL, SQL y pgAdmin.
 
-### 📦 Gestor de productos e inventario
+📦 Gestor de productos e inventario
 
 Aplicación de consola para administrar productos, manejar existencias, almacenar información en archivos JSON y preparar reportes en PDF.
 
-**Tecnologías:** JavaScript, Node.js, `fs`, `readline-sync` y `pdfkit`.
+Tecnologías: JavaScript, Node.js, fs, readline-sync y pdfkit.
 
-### 🐍 Ejercicios de programación orientada a objetos
+🐍 Ejercicios de programación orientada a objetos
 
 Implementación de clases y objetos para representar aprendices, equipos, productos, libros y cuentas, utilizando atributos y métodos para modelar situaciones prácticas.
 
-**Tecnología:** Python.
+Tecnología: Python.
 
-### 📅 TurnoLibre — Sistema de reservas
+📅 TurnoLibre — Sistema de reservas
 
 Propuesta de un sistema de reservas orientado a facilitar la gestión de espacios recreativos y servicios de bienestar para los aprendices del SENA del Pedregal.
 
-**Enfoque:** análisis de necesidades y diseño conceptual de una solución tecnológica.
+Enfoque: análisis de necesidades y diseño conceptual de una solución tecnológica.
 
----
-
-## 🎯 Objetivo profesional
+> echo $GOAL 🎯 Objetivo profesional
 
 Continuar fortaleciendo mis competencias en desarrollo de software y formación tecnológica, explorando nuevas herramientas y buenas prácticas para crear soluciones útiles, promover el pensamiento lógico y facilitar el aprendizaje de la programación.
 
----
+> ping simon 📬 Contacto
 
-## 📬 Contacto
+📧 Correo: simonpacx@gmail.com
 
-📧 **Correo:** [simonpacx@gmail.com](mailto:simonpacx@gmail.com)
+<div align="center"> <br/>
 
----
-📊 Estadísticas de GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=simonpacx-co&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonpacx-co&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
-</p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonpacx-co&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simonpacx-co&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
+>> APRENDIZAJE CONTINUO · PENSAMIENTO LÓGICO · INNOVACIÓN TECNOLÓGICA <<
+
+</div>
 
