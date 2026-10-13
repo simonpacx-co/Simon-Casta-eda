@@ -144,3 +144,10 @@ Continuar fortaleciendo mis competencias en desarrollo de software y formación 
 📧 **Correo:** [simonpacx@gmail.com](mailto:simonpacx@gmail.com)
 
 ---
+📊 Estadísticas de GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=simonpacx-co&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonpacx-co&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
+</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonpacx-co&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simonpacx-co&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
+
