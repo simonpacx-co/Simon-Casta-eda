@@ -1,173 +1,116 @@
-
-: # [TU NOMBRE Y APELLIDO]
-[Profesión, Título o Cargo al que aspiras]
-
----
-
-## 📞 Información de Contacto
-**Teléfono:** [Ej: +57 300 000 0000]
-**Correo Electrónico:** [tucorreo@ejemplo.com]
-**Ubicación:** [Ciudad, País]
-**LinkedIn:** [://linkedin.com]
-**Portafolio / Sitio Web:** [enlace-a-tu-web.com]
-
----
-
-## 💡 Perfil Profesional
-[Escribe un párrafo breve de 3 a 4 líneas en tercera persona o primera persona neutra. Destaca quién eres, tus años de experiencia, tus principales habilidades y qué valor o logro principal puedes aportar a la empresa.]
-
----
-
-## 💼 Experiencia Laboral
-
-### **[Nombre del Cargo o Puesto]** — [Nombre de la Empresa]
-*Mes/Año de inicio – Mes/Año de finalización (o Presente)* | *[Ciudad, País]*
-[Logro o función principal cuantificable, ej: Increméntalas ventas en un 15% mediante...]
-[Descripción de responsabilidad clave relacionada con el puesto al que aspiras]
-[Herramienta, software o metodología utilizada con éxito]
-
-### **[Nombre del Cargo Anterior]** — [Nombre de la Empresa Anterior]
-*Mes/Año de inicio – Mes/Año de finalización* | *[Ciudad, País]*
-[Logro o función destacada]
-[Descripción de responsabilidad clave]
-
----
-
-## 🎓 Formación Académica
-
-### **[Título Obtenido / Carrera]**
-*[Nombre de la Universidad o Institución]* | *Año de graduación*
-
-### **[Bachillerato o Título secundario / Técnico]**
-*[Nombre de la Institución]* | *Año de graduación*
-
----
-
-## 🛠️ Habilidades (Skills)
-
-**Habilidades Duras (Hard Skills):** [Ej: Python, Excel Avanzado, SQL, Redacción SEO, Contabilidad NIIF]
-**Habilidades Blandas (Soft Skills):** [Ej: Liderazgo, Comunicación asertiva, Resolución de problemas, Trabajo en equipo]
-**Idiomas:** 
-  * [Idioma 1, ej: Inglés - Nivel C1]
-  * [Idioma 2, ej: Francés - Nivel B1]
-
----
-
-## 📚 Cursos, Certificaciones y Formación Continua
-**[Nombre del Curso o Certificación]** — *[Institución o plataforma, ej: SENA / Coursera] (Año)*
-**[Nombre del Curso o Certificación]** — *[Institución] (Año)*
-
-
-Lenguajes de Programación 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-Frameworks & Librerías Web 
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-Bases de Datos 
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-Ciencia de Datos, IA & Automatización 
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-
-Herramientas, DevOps & Entornos 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-<!-- BANNER PRINCIPAL -->
-<div align="center"> <img src="assets/banner_linux_animado.gif" alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE" width="100%"> </div>
-<h1 align="center">🐧 Linux & Open Source</h1>
-<h3 align="center"> Explorando sistemas operativos, desarrollo de software y tecnologías libres </h3>
-<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"> <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE"> </p>
-
-💻 Tecnologías y áreas de interés
-Tecnología
-Aplicaciones
-🐧 Linux
-Sistemas operativos y administración
-🟠 Ubuntu
-Desarrollo y entornos de trabajo
-🍓 Raspberry Pi
-Hardware, IoT y proyectos educativos
-🔴 Debian
-Estabilidad y servidores
-🦎 openSUSE
-Administración y desarrollo de sistemas
-
-🚀 Aprendizaje continuo
-Interés en software libre, terminal Linux, automatización, redes, seguridad informática, administración de sistemas y desarrollo de software.
-<p align="center"> <em>Un mundo de posibilidades, en tus manos.</em> </p>
-
-
-
-
-## **🛠️ Stack Tecnológico y Herramientas**
-<!-- BANNER PRINCIPAL -->
-
 <div align="center">
-  <img src="assets/banner.png"
-       alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE"
-       width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:2d1b69,100:ff2a6d&height=240&section=header&text=SIMON%20CASTA%C3%91EDA&fontSize=48&fontColor=05d9e8&fontAlignY=38&desc=%3E%20DEV.EXE%20%2F%2F%20SISTEMA%20ONLINE&descSize=18&descColor=f9c80e&descAlignY=58&animation=fadeIn" width="100%" alt="Banner Simon Castañeda" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=05D9E8&background=0D062000&center=true&vCenter=true&width=700&height=40&lines=Desarrollo+de+Software;Python+%C2%B7+JavaScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Innovaci%C3%B3n+Educativa;Aprendizaje+continuo+%C2%B7+Pensamiento+l%C3%B3gico" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-05D9E8?style=for-the-badge&logo=linkedin&logoColor=0d0620&labelColor=0d0620" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@TU-CANAL"><img src="https://img.shields.io/badge/YouTube-FF2A6D?style=for-the-badge&logo=youtube&logoColor=0d0620&labelColor=0d0620" alt="YouTube" /></a>
+<a href="https://gitlab.com/TU-USUARIO"><img src="https://img.shields.io/badge/GitLab-B44CFF?style=for-the-badge&logo=gitlab&logoColor=0d0620&labelColor=0d0620" alt="GitLab" /></a>
+<a href="mailto:simonpacx@gmail.com"><img src="https://img.shields.io/badge/Email-F9C80E?style=for-the-badge&logo=gmail&logoColor=0d0620&labelColor=0d0620" alt="Email" /></a>
+<a href="https://TU-ENLACE-AL-CURRICULUM"><img src="https://img.shields.io/badge/Mi_Curr%C3%ADculum-FF6B3D?style=for-the-badge&logo=readme&logoColor=0d0620&labelColor=0d0620" alt="Currículum" /></a>
+
 </div>
 
-<h1 align="center">🐧 Linux & Open Source</h1>
+---
 
-<h3 align="center">
-  Explorando sistemas operativos, desarrollo de software y tecnologías libres
-</h3>
+## `> whoami`
+
+# 👋 ¡Hola! Soy Simon Castañeda
+
+### 💻 Desarrollo de Software | Programación | Innovación Educativa
+
+Me interesa el desarrollo de software, la programación y la formación de talento humano en el área tecnológica. He trabajado en ejercicios y proyectos formativos relacionados con Python, JavaScript, Node.js y PostgreSQL. También me interesan la arquitectura de software, las buenas prácticas de programación y la creación de contenidos educativos para facilitar el aprendizaje tecnológico.
+
+| | |
+| --- | --- |
+| 🔭 **Áreas de interés** | desarrollo de software, bases de datos y formación tecnológica |
+| 🌱 **Actualmente** | fortaleciendo conocimientos mediante proyectos y ejercicios prácticos |
+| 🎯 **Objetivo** | contribuir al desarrollo de soluciones tecnológicas y a la formación de nuevas competencias digitales |
+| 📫 **Contacto** | [simonpacx@gmail.com](mailto:simonpacx@gmail.com) |
+
+---
+
+## `> cat stack.txt` 🛠️ Tecnologías
+
+### 💻 Lenguajes
+
+![Python](https://img.shields.io/badge/Python-05D9E8?style=for-the-badge&logo=python&logoColor=0d0620&labelColor=0d0620)
+![JavaScript](https://img.shields.io/badge/JavaScript-05D9E8?style=for-the-badge&logo=javascript&logoColor=0d0620&labelColor=0d0620)
+![SQL](https://img.shields.io/badge/SQL-05D9E8?style=for-the-badge&logo=postgresql&logoColor=0d0620&labelColor=0d0620)
+
+### 🌐 Desarrollo de aplicaciones
+
+![Node.js](https://img.shields.io/badge/Node.js-FF2A6D?style=for-the-badge&logo=nodedotjs&logoColor=0d0620&labelColor=0d0620)
+![JSON](https://img.shields.io/badge/JSON-FF2A6D?style=for-the-badge&logo=json&logoColor=0d0620&labelColor=0d0620)
+
+### 🗄️ Bases de datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B44CFF?style=for-the-badge&logo=postgresql&logoColor=0d0620&labelColor=0d0620)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-B44CFF?style=for-the-badge&logo=postgresql&logoColor=0d0620&labelColor=0d0620)
+
+### 📦 Herramientas
+
+![PDFKit](https://img.shields.io/badge/PDFKit-F9C80E?style=for-the-badge&logo=adobeacrobatreader&logoColor=0d0620&labelColor=0d0620)
+![VS Code](https://img.shields.io/badge/VS_Code-F9C80E?style=for-the-badge&logo=visualstudiocode&logoColor=0d0620&labelColor=0d0620)
+
+---
+
+## `> ls skills/` 📚 Conocimientos
+
+- ▸ Programación orientada a objetos (POO).
+- ▸ Funciones, clases, atributos y métodos en Python.
+- ▸ Aplicaciones de consola con JavaScript y Node.js.
+- ▸ Lectura y escritura de archivos JSON.
+- ▸ Generación de reportes PDF.
+- ▸ Diseño y normalización de bases de datos relacionales.
+- ▸ Consultas SQL, JOIN, subconsultas y funciones agregadas.
+- ▸ Funciones, procedimientos almacenados, transacciones y auditoría de datos.
+- ▸ Interés en arquitectura de software y metodologías ágiles.
+- ▸ Creación de recursos educativos para el aprendizaje de programación.
+
+---
+
+## `> run projects.exe` 🚀 Proyectos formativos
+
+### 🏥 Base de datos Hospital General
+Ejercicios de modelado y consultas SQL para gestionar pacientes, médicos, citas, diagnósticos y costos. Incluye relaciones entre tablas, restricciones, funciones y procedimientos almacenados.  
+**Tecnologías:** PostgreSQL, SQL y pgAdmin.
+
+### 📦 Gestor de productos e inventario
+Aplicación de consola para administrar productos, manejar existencias, almacenar información en archivos JSON y preparar reportes en PDF.  
+**Tecnologías:** JavaScript, Node.js, `fs`, `readline-sync` y `pdfkit`.
+
+### 🐍 Ejercicios de programación orientada a objetos
+Implementación de clases y objetos para representar aprendices, equipos, productos, libros y cuentas, utilizando atributos y métodos para modelar situaciones prácticas.  
+**Tecnología:** Python.
+
+### 📅 TurnoLibre — Sistema de reservas
+Propuesta de un sistema de reservas orientado a facilitar la gestión de espacios recreativos y servicios de bienestar para los aprendices del SENA del Pedregal.  
+**Enfoque:** análisis de necesidades y diseño conceptual de una solución tecnológica.
+
+---
+
+## `> git stats` 📊 Estadísticas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true&locale=es" height="180" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=synthwave&hide_border=true&locale=es" height="180" alt="Lenguajes" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TU-USUARIO-GITHUB&theme=synthwave&hide_border=true&locale=es" alt="Racha" />
 </p>
 
+---
 
+## `> echo $GOAL` 🎯 Objetivo profesional
 
-📊 Estadísticas de GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lillystarfull&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillystarful&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
-</p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lillystarful&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lillystarful&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/> </p>
+Continuar fortaleciendo mis competencias en desarrollo de software y formación tecnológica, explorando nuevas herramientas y buenas prácticas para crear soluciones útiles, promover el pensamiento lógico y facilitar el aprendizaje de la programación.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:2d1b69,100:ff2a6d&height=120&section=footer&text=APRENDIZAJE%20CONTINUO&fontSize=22&fontColor=05d9e8&fontAlignY=65" width="100%" alt="Footer" />
+
+</div>
