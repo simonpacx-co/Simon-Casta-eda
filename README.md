@@ -117,34 +117,6 @@ Administración y desarrollo de sistemas
 Interés en software libre, terminal Linux, automatización, redes, seguridad informática, administración de sistemas y desarrollo de software.
 <p align="center"> <em>Un mundo de posibilidades, en tus manos.</em> </p>
 
-
-
-
-## **🛠️ Stack Tecnológico y Herramientas**
-<!-- BANNER PRINCIPAL -->
-
-<div align="center">
-  <img src="assets/banner.png"
-       alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE"
-       width="100%">
-</div>
-
-<h1 align="center">🐧 Linux & Open Source</h1>
-
-<h3 align="center">
-  Explorando sistemas operativos, desarrollo de software y tecnologías libres
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
-</p>
-
-
-
 📊 Estadísticas de GitHub
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=simonpacx-co&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonpacx-co&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
