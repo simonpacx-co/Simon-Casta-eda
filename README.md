@@ -1,3 +1,6 @@
+ <div align="center">
+  <img src="./" alt="Banner profesional de Gleider Manco Arango" width="100%">
+</div>
 # 👋 ¡Hola! Soy Simon Castañeda
 
 ### 💻 Desarrollo de Software | Programación | Innovación Educativa
