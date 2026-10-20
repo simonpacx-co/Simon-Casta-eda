@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="./" alt="Banner profesional de Gleider Manco Arango" width="100%">
+  <img src="./bannerjpg.jfif" alt="Banner profesional de Simon Patiño Castañeda" width="100%">
 </div>
 # 👋 ¡Hola! Soy Simon Castañeda
 
